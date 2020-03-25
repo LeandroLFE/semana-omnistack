@@ -1,0 +1,12 @@
+(backend) npm init -y
+(backend) npm install express
+
+npx create-react-app (frontend)
+
+--------------------------------------------
+
+npm install nodemon -D
+alterar o script para incluir nodemon index.js
+comando npm start
+
+--------------------------------------------
